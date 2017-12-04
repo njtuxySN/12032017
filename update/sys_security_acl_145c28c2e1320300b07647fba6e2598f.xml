@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on u_xxx</description>
+        <name>u_xxx</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-04 03:28:00</sys_created_on>
+        <sys_id>145c28c2e1320300b07647fba6e2598f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_xxx</sys_name>
+        <sys_package display_value="s01" source="x_s01">180b2c06d4320300b7c8c00a026fc6e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="s01">180b2c06d4320300b7c8c00a026fc6e1</sys_scope>
+        <sys_update_name>sys_security_acl_145c28c2e1320300b07647fba6e2598f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-04 03:28:00</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
